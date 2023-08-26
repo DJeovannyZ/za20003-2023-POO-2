@@ -32,6 +32,6 @@ public class Appointment {
 
     @Override
     public String toString() {
-        return this.pet + "\n" + this.record + "\nCosto de la Cita: $" + this.cost;
+        return this.record + "\n" + this.pet + "\nCosto de la Cita: $" + this.cost;
     }
 }

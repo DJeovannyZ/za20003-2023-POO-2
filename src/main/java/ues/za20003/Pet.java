@@ -51,7 +51,7 @@ public class Pet {
 
     @Override
     public String toString() {
-        return "Tipo de Mascota: " + this.typePet + "\nEdad: " + this.age + "años\nPeso: "
+        return "Tipo de Mascota: " + this.typePet + "\nEdad: " + this.age + " años\nPeso: "
                 + this.weight + "kg \nAltura: " + this.height + "cm";
     }
 
